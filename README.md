@@ -20,5 +20,6 @@ Database:
 ## Frontend designs
 ### Desktop
 <img src="desktop_view.png" width=500>
+
 ### Mobile
 <img src="mobile_view.png" width=500>
