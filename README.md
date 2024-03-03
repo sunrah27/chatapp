@@ -1,6 +1,18 @@
-Instant Messaging App build using React.js and Node.js using JWT, Socket.io and MondoDB.
+Instant Messaging App build using React.js and Node.js.
 
-The App is broken down in to Frontend and Backend. Backend is built on top of Node.js running an express server. Frontend is built using React.js.
+## Techstack
+Frontend:
+- React.js
+- Tailwind
+
+Backend:
+- Node.js
+- Express.js
+- JWT
+- Societ.io
+
+Database:
+- MongoDB
 
 ## Message model
 <img src="chat_model.png" width=500>
