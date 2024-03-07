@@ -85,7 +85,7 @@ const SignUp = () => {
                         <button type="submit" className="btn btn-block btn-sm mt-5 text-gray-100 bg-opacity-50 border-0">Login</button>
                     </div>
 
-                    <a href="#" className="text-sm hover:underline text-gray-100 mt-2 inline-block">Already have an account?</a>
+                    <a href="/login" className="text-sm hover:underline text-gray-100 mt-2 inline-block">Already have an account?</a>
                 </form>
             </div>
         </div>
